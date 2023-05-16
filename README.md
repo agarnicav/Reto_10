@@ -82,4 +82,6 @@ Hacer un algoritmo que deje al final de un arreglo de números todos los ceros q
         
         
 # Cuarto punto 
+Algoritmos de sorting: Un algoritmo de sorting, proceso  que organiza elementos de una lista en un orden específico. El orden puede ser ascendente o descendente, y pueden ser objetos, números y letras.
 
+Bubble Sort: este es el algoritmo de sorting más simple, pero también el menos eficiente. Funciona comparando elementos adyacentes y intercambiándolos si están en el orden incorrecto. El proceso se repite hasta que la lista esté ordenada. 
